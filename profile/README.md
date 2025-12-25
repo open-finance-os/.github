@@ -39,7 +39,6 @@ Benchmarking UAE progress against UK, EU, Brazil, and the GCC. Learning from int
 | Repository | Description | Tech |
 |------------|-------------|------|
 | [docs](https://github.com/open-finance-os/docs) | Documentation, guides, and learning resources | MDX |
-| [open-finance-hackathon-starter](https://github.com/open-finance-os/open-finance-hackathon-starter) | ADCB & Nebras Hackathon starter kit | JavaScript/React |
 | [hackathon-starter-kit](https://github.com/open-finance-os/hackathon-starter-kit) | Vue.js hackathon starter kit | Vue |
 | [.github](https://github.com/open-finance-os/.github) | Organization profile and community files | — |
 
@@ -51,7 +50,6 @@ Benchmarking UAE progress against UK, EU, Brazil, and the GCC. Learning from int
 → [openfinance-os.org](https://openfinance-os.org)
 
 ### Build something
-→ [Hackathon Starter Kit (React)](https://github.com/open-finance-os/open-finance-hackathon-starter)  
 → [Hackathon Starter Kit (Vue)](https://github.com/open-finance-os/hackathon-starter-kit)
 
 ### Learn
@@ -64,9 +62,9 @@ Benchmarking UAE progress against UK, EU, Brazil, and the GCC. Learning from int
 
 ## 🛠️ For hackathon participants
 
-Building for the **ADCB & Nebras UAE Open Finance Hackathon**? Start here:
+Building for a UAE Open Finance Hackathon? Start here:
 
-1. **Fork the starter kit** — [React](https://github.com/open-finance-os/open-finance-hackathon-starter) or [Vue](https://github.com/open-finance-os/hackathon-starter-kit)
+1. **Fork the starter kit** — [Vue Starter Kit](https://github.com/open-finance-os/hackathon-starter-kit)
 2. **Read the docs** — [openfinance-os.org/learn](https://openfinance-os.org/learn)
 3. **Get your sandbox credentials** — From the hackathon organizers
 4. **Build something amazing** — Good luck! 🚀
