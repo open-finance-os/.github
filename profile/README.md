@@ -36,24 +36,40 @@ Benchmarking UAE progress against UK, EU, Brazil, and the GCC. Learning from int
 
 ## 📦 Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [openfinance-os.org](https://github.com/open-finance-os/openfinance-os.org) | Website and documentation |
-| [observatory](https://github.com/open-finance-os/observatory) | Dashboard data collectors and visualizations |
-| [community](https://github.com/open-finance-os/community) | Discussions, governance, and community coordination |
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [docs](https://github.com/open-finance-os/docs) | Documentation, guides, and learning resources | MDX |
+| [open-finance-hackathon-starter](https://github.com/open-finance-os/open-finance-hackathon-starter) | ADCB & Nebras Hackathon starter kit | JavaScript/React |
+| [hackathon-starter-kit](https://github.com/open-finance-os/hackathon-starter-kit) | Vue.js hackathon starter kit | Vue |
+| [.github](https://github.com/open-finance-os/.github) | Organization profile and community files | — |
 
 ---
 
 ## 🚀 Quick start
 
-**Explore the ecosystem:**
+### Explore the ecosystem
 → [openfinance-os.org](https://openfinance-os.org)
 
-**Join the conversation:**
-→ [GitHub Discussions](https://github.com/open-finance-os/community/discussions)
+### Build something
+→ [Hackathon Starter Kit (React)](https://github.com/open-finance-os/open-finance-hackathon-starter)  
+→ [Hackathon Starter Kit (Vue)](https://github.com/open-finance-os/hackathon-starter-kit)
 
-**Contribute:**
-→ [Contributing Guide](https://github.com/open-finance-os/community/blob/main/CONTRIBUTING.md)
+### Learn
+→ [Documentation](https://github.com/open-finance-os/docs)
+
+### Join the conversation
+→ [GitHub Discussions](https://github.com/orgs/open-finance-os/discussions)
+
+---
+
+## 🛠️ For hackathon participants
+
+Building for the **ADCB & Nebras UAE Open Finance Hackathon**? Start here:
+
+1. **Fork the starter kit** — [React](https://github.com/open-finance-os/open-finance-hackathon-starter) or [Vue](https://github.com/open-finance-os/hackathon-starter-kit)
+2. **Read the docs** — [openfinance-os.org/learn](https://openfinance-os.org/learn)
+3. **Get your sandbox credentials** — From the hackathon organizers
+4. **Build something amazing** — Good luck! 🚀
 
 ---
 
@@ -66,7 +82,7 @@ We welcome contributions from everyone. Here's how you can help:
 - **🔍 Data** — Help verify ecosystem information and spot errors
 - **📣 Spread the word** — Share with others who might benefit
 
-See our [Contributing Guide](https://github.com/open-finance-os/community/blob/main/CONTRIBUTING.md) for details.
+See our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ---
 
@@ -78,12 +94,7 @@ OpenFinance-OS is community-owned and community-funded.
 - **No paid placements**
 - **No editorial influence from funding**
 
-Decisions are made transparently by maintainers with input from the community. See our [Governance documentation](https://github.com/open-finance-os/community/blob/main/GOVERNANCE.md) for details.
-
-### Current maintainers
-
-<!-- Add maintainer info here -->
-*Maintainer list coming soon*
+Decisions are made transparently by maintainers with input from the community.
 
 ---
 
@@ -95,26 +106,23 @@ We complement—never replace—official channels:
 |----------|------|
 | Al Tareq Platform | [altareq.ae](https://altareq.ae) |
 | CBUAE | [cbuae.gov.ae](https://cbuae.gov.ae) |
-| UAE Open Finance Regulation | [CBUAE Regulations](https://www.cbuae.gov.ae/en/about-us/the-regulatory-framework) |
+| UAE Open Finance Regulation | [CBUAE Regulatory Framework](https://www.cbuae.gov.ae/en/about-us/the-regulatory-framework) |
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is a **community project**. 
+This is a **community project**.
 
 - Not affiliated with CBUAE, Al Tareq, or any financial institution
 - Data is derived from public sources and may not be complete or current
 - Nothing here constitutes financial, legal, or regulatory advice
 - Official information should always be verified with primary sources
 
-See our [full disclaimer](https://openfinance-os.org/about/disclaimer).
-
 ---
 
 ## 📊 Ecosystem snapshot
 
-<!-- These values should be updated periodically or automated -->
 | Metric | Count |
 |--------|-------|
 | Total participants | 47 |
@@ -131,7 +139,7 @@ See our [full disclaimer](https://openfinance-os.org/about/disclaimer).
 ## 💬 Connect
 
 - **Website:** [openfinance-os.org](https://openfinance-os.org)
-- **Discussions:** [GitHub Discussions](https://github.com/open-finance-os/community/discussions)
+- **Discussions:** [GitHub Discussions](https://github.com/orgs/open-finance-os/discussions)
 - **Issues:** Report bugs or suggest features in the relevant repository
 
 ---
